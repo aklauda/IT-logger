@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Pero Nikic",
+      "date": "2021-05-23T20:54:14.180Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "Pero Nikic",
+      "date": "2021-05-24T08:38:27.565Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Matej Stojanovic",
+      "date": "2021-05-23T20:54:53.176Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Pero",
+      "lastName": "Nikic"
+    },
+    {
+      "id": 2,
+      "firstName": "Dominik",
+      "lastName": "Lunko"
+    },
+    {
+      "id": 3,
+      "firstName": "Matej",
+      "lastName": "Stojanovic"
+    },
+    {
+      "firstName": "Petar",
+      "lastName": " Kozina",
+      "id": 4
+    }
+  ]
+}
